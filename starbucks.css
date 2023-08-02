@@ -1,0 +1,571 @@
+* {
+    margin: 0;
+    padding: 0%;
+    font-family: system-ui;
+}
+
+.navbar {
+    width: 70%;
+    height: 80px;
+    margin: auto;
+    display: flex;
+
+}
+
+.nav-1 {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.homepage li {
+    padding: 0px 19px;
+    display: inline-block;
+}
+
+.nav-2 {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.search img {
+    width: 280px;
+}
+
+.login {
+    width: 15%;
+}
+
+.knowmore {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(0, 70, 0);
+}
+
+.sec-1 {
+    width: 70%;
+    height: 80px;
+    margin: auto;
+    display: flex;
+    color: white;
+}
+
+.sec-1-1 {
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+.sec-1-1 p {
+    font-size: 18px;
+    line-height: 80px;
+    font-size: larger;
+
+}
+
+.sec-1-2 {
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.sec-1-2 button {
+    padding: 10px;
+    border-radius: 20px;
+    background-color: transparent;
+    color: white;
+    border: solid 1px;
+}
+
+.text1 {
+    font-size: xx-large;
+    color: #fff;
+    padding-left: 120px;
+    padding-top: 30px;
+    font-style: normal;
+
+}
+
+.imgknow img {
+    width: 400px;
+    margin-left: 1350px;
+    margin-top: -58px;
+    height: 90px;
+}
+
+.icons {
+    margin: auto;
+    width: 70%;
+    height: 180px;
+}
+
+.hand {
+    color: #0a0a0a;
+    font-size: xx-large;
+}
+
+.items {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.item-img p {
+    text-align: center;
+    font-size: 16px;
+}
+
+.items img {
+    width: 90px;
+    border-radius: 50%;
+}
+
+.ads-1 {
+    margin-top: 70px;
+    width: 910px;
+    height: 210px;
+    background-color: aquamarine;
+    margin-left: 180px;
+
+}
+
+.ads-1 img {
+    width: 910px;
+}
+
+.latest {
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.offer-1 {
+    margin-top: 30px;
+    margin-left: 200px;
+    width: 880px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+
+}
+
+.offer414 {
+    width: 350px;
+    height: 300px;
+    background-color: rgb(248, 243, 243);
+    border-radius: 10%;
+}
+
+.offer414 p {
+    padding-left: 10px;
+}
+
+.offer483 {
+    margin-left: 70px;
+    width: 350px;
+    height: 300px;
+    background-color: rgb(248, 243, 243);
+    border-radius: 10%;
+
+}
+
+.offer483 p {
+    padding-left: 10px;
+}
+
+.offer446 {
+    margin-left: 70px;
+    width: 350px;
+    height: 300px;
+    background-color: rgb(248, 243, 243);
+    border-radius: 10%;
+
+}
+
+.img414 {
+    width: 250px;
+    height: 130px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+
+}
+
+.img414 img {
+    width: 250px;
+    height: 130px;
+    border-radius: 10%;
+}
+
+.offer414 button {
+    padding-left: 20px;
+    padding-top: 3px;
+    width: 100px;
+    height: 30px;
+    margin-top: -20px;
+
+    background-color: #1e3932;
+
+    margin-left: 120px;
+    border: none;
+    border-radius: 10%;
+    display: flex;
+}
+
+.img483 {
+    width: 250px;
+    height: 130px;
+    background-color: rgb(214, 214, 214);
+    border-radius: 10%;
+
+
+}
+
+.img483 img {
+    width: 250px;
+    height: 130px;
+    border-radius: 10%;
+}
+
+.offer483 button {
+    padding-left: 20px;
+    padding-top: 3px;
+    width: 100px;
+    height: 30px;
+    margin-top: -30px;
+
+    background-color: #1e3932;
+
+    margin-left: 120px;
+    border: none;
+    border-radius: 10%;
+    display: flex;
+
+}
+
+.img446 {
+    width: 250px;
+    height: 130px;
+    background-color: rgb(214, 214, 214);
+    border-radius: 10%;
+
+}
+
+.offer446 img {
+    width: 250px;
+    height: 130px;
+    border-radius: 10%;
+}
+
+.offer446 button {
+    padding-left: 20px;
+    padding-top: 3px;
+    width: 100px;
+    height: 30px;
+    margin-top: -20px;
+
+    background-color: #1e3932;
+
+    margin-left: 120px;
+    border: none;
+    border-radius: 10%;
+    display: flex;
+
+}
+
+.offer446 p {
+    padding-left: 10px;
+}
+
+.barista {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+
+.offer-2 {
+    width: 880px;
+    height: 140px;
+    background-color:#fff;
+    margin-left: 200px;
+    display: flex;
+
+
+}
+
+.offer204 {
+    width: 250px;
+    height: 140px;
+    background-color: rgb(248, 243, 243);
+    border-radius: 10%;
+
+
+}
+
+.offer194 {
+    width: 250px;
+    height: 140px;
+    background-color: rgb(248, 243, 243);
+    margin-left: 65px;
+    border-radius: 10%;
+}
+
+.offer288 {
+    width: 250px;
+    height: 140px;
+    background-color: rgb(248, 243, 243);
+    margin-left: 65px;
+    border-radius: 10%;
+}
+
+.txt204 {
+    width: 250px;
+    height: 80px;
+    background-color: rgb(248, 243, 243);
+    display: flex;
+    border-radius: 10%;
+
+}
+
+.img204 {
+    width: 80px;
+    height: 70px;
+   
+
+    background-color: rgb(248, 243, 243)
+}
+
+.img204 img {
+    width: 80px;
+    height: 70px;
+    background-position: ;
+    border-radius: 10%;
+
+}
+
+.txt204 h4 {
+    margin: 10px;
+    margin-top: 20px;
+}
+
+.offer204 p {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.offer204 button {
+    padding-left: 20px;
+    padding-top: 3px;
+    width: 100px;
+    height: 30px;
+    margin-top: -20px;
+
+    background-color: #1e3932;
+
+    margin-left: 120px;
+    border: none;
+    border-radius: 10%;
+    display: flex;
+}
+
+.adp {
+    padding-top: -30px;
+    color: #fff;
+    padding-left: 5px;
+    
+}
+.txt194{
+    width: 250px;
+    height: 80px;
+    background-color: rgb(248, 243, 243);
+    display: flex;
+    border-radius: 10%;
+}
+
+.txt194 img{
+    width: 80px;
+    height: 70px;
+   border-radius: 10%;
+}
+.txt194 h4 {
+    margin: 10px;
+    margin-top: 20px;
+}
+.offer194 p {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.offer194 button {
+    padding-left: 20px;
+    padding-top: 3px;
+    width: 100px;
+    height: 30px;
+    margin-top: -20px;
+
+    background-color: #1e3932;
+
+    margin-left: 120px;
+    border: none;
+    border-radius: 10%;
+    display: flex;
+}
+.txt288{
+    width: 250px;
+    height: 80px;
+    background-color: rgb(248, 243, 243);
+    display: flex;
+    border-radius: 10%;
+}
+.txt288 img{
+    width: 80px;
+    height: 70px;
+   border-radius: 10%;
+}
+.txt288 h4 {
+    margin: 10px;
+    margin-top: 20px;
+}
+.offer288 p {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.offer288 button {
+    padding-left: 20px;
+    padding-top: 3px;
+    width: 100px;
+    height: 30px;
+    margin-top: -20px;
+
+    background-color: #1e3932;
+
+    margin-left: 120px;
+    border: none;
+    border-radius: 10%;
+    display: flex;
+}
+
+
+
+.coffeeadd{
+    width: 880px;
+    height: 250px;
+
+    margin-left: 200px;
+   
+}
+.pro{
+ position: relative;
+    background-image:url(coffeeimg.jpg) ;
+    
+    width:100%;
+    height: 100%;
+}
+.pro h3{
+  margin-left: 20px;
+ padding-top: 50px;
+   
+}
+.pro p{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.coffeeadd button{
+    width: 150px;
+    margin-left: 20px;
+    margin-top: 30px;
+    border: none;
+    border-radius: 10%;
+    height: 30px;
+}
+
+.last{
+    margin-top: 60px;
+    width: 880px;
+    height: 250px;
+background-color: rgb(0, 70, 0);
+    margin-left: 200px;
+    display: flex;
+   
+}
+.last-1{
+    height: 250px;
+    width: 146px;
+    background-color:  rgb(0, 70, 0);
+}
+.last-2{
+    height: 250px;
+    width: 146px;
+    background-color: rgb(0, 70, 0);
+}
+.last-3{
+    height: 250px;
+    width: 146px;
+    background-color: rgb(0, 70, 0);
+}
+.last-4{
+    height: 250px;
+    width: 146px;
+    background-color: rgb(0, 70, 0)7;
+}
+.last-5{
+    height: 250px;
+    width: 146px;
+    background-color: rgb(0, 70, 0);
+}
+.last-6{
+    height: 250px;
+    width: 146px;
+    background-color: rgb(0, 70, 0);
+}
+.last-1 img{
+    padding-left: 20px;
+    margin-top: 20px;
+    width: 50px;
+}
+.last-2 p{
+    color: #fff;
+    margin-top: 20px;
+}
+.last-3 p{
+    color: #fff;
+    margin-top: 20px;
+}
+.last-4 p{
+    color: #fff;
+    margin-top: 20px;
+}
+.last-2 h4{
+    color: #fff;
+    margin-top: 20px;
+}
+.last-3 h4{
+    color: #fff;
+    margin-top: 20px;
+}
+
+.last-4 h4{
+    color: #fff;
+    margin-top: 20px;
+}
+.last-5 h4{
+    color: #fff;
+    margin-top: 20px;
+    display: flex;
+}
+.last-5 img{
+    width: 30px;
+    margin-top: 30px;
+    color: #fff;
+    border-color: #fff;
+    padding-left: 5px;
+}
+
+
+
